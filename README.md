@@ -32,7 +32,7 @@ Creates a network effect - more users = better data = more value
 Solves the cold start problem through gamification
 Culturally resonant - Indians love helping other Indians
 Sustainable - users are incentivized to keep contributing
-🎨 Landing Page - First Impressions Matter (2-3 minutes)
+🎨 Landing Page - First Impressions Matter 
 "Our landing page isn't just beautiful - it's a conversion machine designed with Indian psychology in mind."
 
 
@@ -40,7 +40,7 @@ Clear Value Proposition: "25% average cost savings" prominently displayed
 Social Proof: "500+ registered vendors" builds trust
 Dual CTAs: Separate buttons for vendors and suppliers
 Testimonial Section: Real vendor feedback with photos
-📱 Vendor Dashboard - The Command Center (3-5 minutes)
+📱 Vendor Dashboard - The Command Center 
 "This isn't just a dashboard - it's mission control for street food entrepreneurs!"
 
 🔍 Voice Search Integration
@@ -75,7 +75,7 @@ Tech Stack:
 Machine Learning: TensorFlow.js for client-side predictions
 Historical Data: Pattern recognition from past sales
 External APIs: Weather and festival calendar integration
-🔬 AR Quality Scanner - The Future is Here (5-6 minutes)
+🔬 AR Quality Scanner - The Future is Here
 "We've brought augmented reality to street food quality control!"
 
 The Vision:
@@ -94,7 +94,7 @@ User Experience:
 Intuitive Interface: Simple point-and-scan operation
 Instant Results: Quality score appears in seconds
 Actionable Insights: Tells vendors exactly what to look for
-💳 UPI Payment Integration - Seamless Transactions (6-7 minutes)
+💳 UPI Payment Integration - Seamless Transactions 
 "We've made B2B payments as easy as buying chai from a roadside vendor!"
 
 The Challenge:
@@ -111,7 +111,7 @@ Technical Excellence:
 
 
 
-📱 WhatsApp Integration - Communication Revolution (7-8 minutes)
+📱 WhatsApp Integration - Communication Revolution
 "We've turned WhatsApp into a powerful B2B communication platform!"
 
 The Insight:
@@ -131,7 +131,7 @@ WhatsApp Business API: Direct integration with WhatsApp
 Real-time Messaging: WebSocket for instant message delivery
 Message Status: Delivered, read receipts like WhatsApp
 File Upload: Secure media sharing with cloud storage
-🔗 Blockchain Trust Scores - Building Digital Trust (8-9 minutes)
+🔗 Blockchain Trust Scores - Building Digital Trust
 "We're using blockchain to create an unbreakable trust system!"
 
 The Problem:
@@ -162,7 +162,7 @@ Real-time Analytics: Live data processing and visualization
 Machine Learning: Pattern recognition and predictive modeling
 Interactive Charts: D3.js for beautiful data visualization
 Export Capabilities: PDF reports for offline analysis
-🌐 Offline-First Architecture (10-11 minutes)
+🌐 Offline-First Architecture 
 "We've solved the biggest problem in rural India - unreliable internet!"
 
 The Challenge:
@@ -191,7 +191,7 @@ Progress Tracking: Visual progress bars and achievement counters
 Reward Systems: Points convertible to real benefits
 Social Features: Share achievements on social media
 Challenges: Weekly and monthly competitions
-🚀 Technical Architecture & Scalability (12-13 minutes)
+🚀 Technical Architecture & Scalability 
 "Built to scale from 1 to 1 million users without breaking a sweat!"
 
 Frontend Architecture:
@@ -212,7 +212,7 @@ End-to-End Encryption: All sensitive data encrypted
 Multi-Factor Authentication: Secure account access
 Regular Security Audits: Continuous security monitoring
 GDPR Compliance: Privacy-first data handling
-💰 Business Model & Market Impact (13-14 minutes)
+💰 Business Model & Market Impact
 "This isn't just a platform - it's an economic revolution!"
 
 Revenue Streams:
@@ -227,7 +227,7 @@ Cost Savings: 25-40% reduction in procurement costs
 Time Efficiency: 60% reduction in sourcing time
 Quality Improvement: Better products through transparency
 Economic Empowerment: Leveling the playing field
-🌟 Future Roadmap & Vision (14-15 minutes)
+🌟 Future Roadmap & Vision 
 "This is just the beginning of our journey to transform India's informal economy!"
 
 Phase 1 Expansion:
